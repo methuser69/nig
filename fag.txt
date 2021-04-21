@@ -1,0 +1,1 @@
+sudo ssh -i "a2.pem" ubuntu@ec2-3-141-244-85.us-east-2.compute.amazonaws.com
